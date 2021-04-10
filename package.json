@@ -1,0 +1,8 @@
+{
+  "name": "points-of-interest",
+  "version": "0.0.1",
+  "main": "main.js",
+  "repository": "git@github.com:olesh0/points-of-interest.git",
+  "author": "olesh <olegkirashchuk@gmail.com>",
+  "license": "MIT"
+}
